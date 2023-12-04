@@ -1,0 +1,16 @@
+# Sistema de Gestão de Condomínios em C# (POO)
+
+Bem-vindo ao repositório do projeto de Programação Orientada a Objetos (POO) de Gestão de Condomínios
+
+## Descrição do Projeto
+
+O objetivo deste projeto é criar uma aplicação de gestão de condomínios usando os princípios da Programação Orientada a Objetos em Csharp e a plataforma .NET. A aplicação permite aos usuários realizar várias operações relacionadas à administração de condomínios, incluindo moradores, despesas, reuniões, entre outros.
+
+## Membros do Grupo
+
+- **Pedro Rocha (a23009)**
+- **Fábio Fernandes (a22996)**
+
+## Professor Orientador
+
+- **Luís Fernandes**
